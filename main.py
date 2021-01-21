@@ -2,5 +2,5 @@ print('Hello World lol')
 
 x = 3
 
-def add_10(x):
-    return x+10
+def add_12(x):
+    return x+12
