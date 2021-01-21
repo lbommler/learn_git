@@ -1,0 +1,1 @@
+print("Luggi riecht ned gut")
